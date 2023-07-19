@@ -17,3 +17,4 @@ ImageFilter: Provides a set of predefined image enhancement filters.
 ImageFont: Helps in loading and using fonts for text overlay on images.
 Acknowledgments
 This file is based on the Python Project: pillow, tesseract, and opencv course on Coursera by Coursera. You can find more information and resources about the course on the Coursera platform.
+![Screenshot 2023-07-19 135151](https://github.com/meliikaa/PIL/assets/111120849/42d01054-6bdc-454c-a88a-cc847446fc42)
